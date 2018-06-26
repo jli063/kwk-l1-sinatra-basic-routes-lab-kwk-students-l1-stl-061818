@@ -8,8 +8,9 @@ class App < Sinatra::Base
 end
 
   get '/nutritious' do
-    "bok choy is very nutritious"
+    "has lots of fiber"
   end
+
 
 
 end
