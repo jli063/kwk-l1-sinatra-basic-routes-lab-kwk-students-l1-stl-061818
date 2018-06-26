@@ -2,14 +2,14 @@ require 'sinatra'
 
 class App < Sinatra::Base
   
-  get '/' do 
-    "I love bok choy"
+#   get '/' do 
+#     "I love bok choy"
     
-end
+# end
 
-  get '/nutritious' do
-    <h>"has lots of fiber"</h1>
-  end
+#   get '/nutritious' do
+#     <h>"has lots of fiber"</h1>
+#   end
 
 
 
