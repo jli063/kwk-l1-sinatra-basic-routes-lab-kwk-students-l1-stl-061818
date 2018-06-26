@@ -2,6 +2,13 @@ require 'sinatra'
 
 class App < Sinatra::Base
   
+  get '/' do 
+    "Hello, World!"
+  end
+  
+  get '/' do
+    ""
+  
 #   get '/' do 
 #     "I love bok choy"
     
